@@ -86,7 +86,9 @@ public class MainActivity extends SampleActivityBase {
                 supportInvalidateOptionsMenu();
                 return true;
         }
+        int Trubaluba;
         return super.onOptionsItemSelected(item);
+
     }
 
     /** Create a chain of targets that will receive log data */
