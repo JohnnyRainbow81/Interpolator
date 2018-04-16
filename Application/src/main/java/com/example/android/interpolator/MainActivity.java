@@ -108,5 +108,6 @@ public class MainActivity extends SampleActivityBase {
 
         Log.i(TAG, "Ready");
         int GitHubTest;
+        int blablabla
     }
 }
