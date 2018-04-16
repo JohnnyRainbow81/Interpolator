@@ -276,6 +276,7 @@ public class InterpolatorFragment extends Fragment {
         mPathOut = new Path();
         mPathOut.moveTo(1f, 1f);
         mPathOut.lineTo(0.2f, 0.2f);
+        int myNewVaribale;
 
 
     }

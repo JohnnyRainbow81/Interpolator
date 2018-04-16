@@ -107,5 +107,6 @@ public class MainActivity extends SampleActivityBase {
         msgFilter.setNext(logFragment.getLogView());
 
         Log.i(TAG, "Ready");
+        int GitHubTest;
     }
 }
